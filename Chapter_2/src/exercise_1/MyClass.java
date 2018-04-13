@@ -1,3 +1,5 @@
+package exercise_1;
+
 public class MyClass {
     static private int i;
     static private char c;

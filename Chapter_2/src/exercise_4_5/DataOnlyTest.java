@@ -1,3 +1,5 @@
+package exercise_4_5;
+
 public class DataOnlyTest {
     public static void main(String[] args) {
         class DataOnly{

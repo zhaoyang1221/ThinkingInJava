@@ -1,3 +1,5 @@
+package exercise_3;
+
 public class ATypeNameTest {
     public static void main(String[] args) {
         class ATypeName {

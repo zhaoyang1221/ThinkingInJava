@@ -1,3 +1,5 @@
+package exercise_6;
+
 public class StorageTest {
     public static void main(String[] args) {
         class Storage{
