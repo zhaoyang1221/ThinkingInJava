@@ -1,6 +1,6 @@
 package exercise_1;
 
-public class MyClass {
+public class MyClass1 {
     static private int i;
     static private char c;
 
