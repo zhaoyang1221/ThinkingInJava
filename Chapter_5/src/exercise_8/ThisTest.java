@@ -1,4 +1,4 @@
-package exericse_8;
+package exercise_8;
 
 /**
  * @author zhaoyang on 2018/4/15 0015.
