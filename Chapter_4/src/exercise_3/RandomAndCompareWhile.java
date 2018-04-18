@@ -1,7 +1,5 @@
 package exercise_3;
 
-import com.sun.xml.internal.ws.runtime.config.TubelineFeatureReader;
-
 import java.util.Random;
 
 public class RandomAndCompareWhile {

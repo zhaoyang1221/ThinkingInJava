@@ -1,7 +1,5 @@
 package exercise_14;
 
-import javax.tools.ForwardingFileObject;
-
 public class StringCompareTest {
     public static void main(String[] args) {
         String st1 = new String("aaa");
