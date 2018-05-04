@@ -59,6 +59,7 @@ public class ReferenceCounting {
                 new Composing(shared), new Composing(shared) };
         for(Composing c : composing)
             c.dispose();
+
     }
 } /* Output:
 Creating Shared 0
