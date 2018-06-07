@@ -7,7 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="TinkingInJava" level="project" />
-    <orderEntry type="library" exported="" name="typeinfo-pets" level="project" />
+    <orderEntry type="library" name="TinkingInJava" level="project" />
+    <orderEntry type="library" name="typeinfo-pets" level="project" />
+    <orderEntry type="module" module-name="Chapter_14" />
   </component>
 </module>
